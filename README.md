@@ -241,4 +241,3 @@ MIT License - see [LICENSE](LICENSE) for details.
 - IPFS for decentralized storage
 - cannon-es & Ammo.js for physics
 - MediaSoup for SFU capabilities
-```
