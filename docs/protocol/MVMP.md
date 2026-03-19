@@ -1,5 +1,4 @@
 
-```markdown
 # MVMP: Metaverse Mesh Protocol
 
 ## Overview
@@ -154,4 +153,4 @@ All P2P traffic encrypted with AES-256-GCM.
 - [IPFS Content Addressing](https://docs.ipfs.io/concepts/content-addressing/)
 - [glTF 2.0 Specification](https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html)
 - [VRM Format](https://vrm.dev/)
-```
+
