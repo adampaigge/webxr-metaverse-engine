@@ -1,0 +1,42 @@
+{
+  "name": "quantum-webxr",
+  "version": "1.0.0",
+  "description": "A foundational WebXR engine for the spatial internet",
+  "type": "module",
+  "main": "src/quantum-webxr.js",
+  "exports": {
+    ".": "./src/quantum-webxr.js",
+    "./client": "./src/quantum-webxr.js",
+    "./server": "./server/distributed/QuantumServer.js"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "server": "node server/index.js",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "three": "^0.160.0",
+    "cannon-es": "^0.20.0",
+    "@fails-components/webtransport": "^0.3.0",
+    "mediasoup": "^3.13.0",
+    "ws": "^8.16.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "vitest": "^1.0.0"
+  },
+  "keywords": [
+    "webxr",
+    "vr",
+    "ar",
+    "metaverse",
+    "mmo",
+    "webgl",
+    "webgpu",
+    "p2p",
+    "ipfs"
+  ],
+  "author": "Quantum WebXR Contributors",
+  "license": "MIT"
+}
