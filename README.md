@@ -1,5 +1,5 @@
 
-```markdown
+
 # QuantumWebXR Engine
 
 A foundational WebXR engine for building the spatial internet - a decentralized, interoperable metaverse built on web standards.
